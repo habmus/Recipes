@@ -1,0 +1,11 @@
+html{
+    background-color: lightgrey;
+}
+h1{
+    color: green;
+}
+
+img{
+        height: auto;
+        width: 400px;
+}
